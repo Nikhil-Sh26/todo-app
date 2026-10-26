@@ -1,0 +1,3 @@
+# gentle-todo list. Edit freely by hand.
+# [ ] = open, [x] = done. Nothing here is overdue. Ever.
+[ ] Welcome! Add your first real task with: ./todo add "something kind"
